@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+}
+.ice{
+      font-family: "Lobster", sans-serif;
+      font-weight: 500;
+      font-size: 40px;
+}
+.ice:hover{
+    font-weight: 700;
+}
+.icecream{
+    width: 550px;
+    transition: all 2s;
+    
+}
+.icecream:hover{
+      width: 600px;
+    transform: scale(1.1);
+}
+.cone{
+     font-family: "Honk", system-ui;
+     font-size: 40px;
+}
